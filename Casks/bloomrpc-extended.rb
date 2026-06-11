@@ -1,6 +1,6 @@
 cask "bloomrpc-extended" do
-  version "2.1.2"
-  sha256 "0ac93384b62daa3f2a7939fcac7542d6c6a124c6c4bdf500708f9534897db435"
+  version "2.2.0"
+  sha256 "9ade434100df1e34c2c5bba4f3014994f19ebc29ad268aa765c86d33921a2771"
 
   url "https://github.com/bloomrpc-extended/bloomrpc-extended/releases/download/v#{version}/BloomRPC-Extended-#{version}-arm64.dmg"
   name "BloomRPC Extended"
